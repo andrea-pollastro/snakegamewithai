@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+    padding:0;
+    overflow: auto;
+}
+#explanation{
+    margin: 20px;
+}
+#sketch-holder{
+    margin: 40px 20px;
+}
